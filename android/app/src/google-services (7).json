@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499581691949",
+    "project_id": "cess-9e68c",
+    "storage_bucket": "cess-9e68c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499581691949:android:05538665857546ed0770a4",
+        "android_client_info": {
+          "package_name": "com.example.ces"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXx5Uo8zmSWEIL2-3qbP--AfimkEdPMNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
